@@ -20,7 +20,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: ['https://e-commerce-product-catalog-api.vercel.app/','http://localhost:3000/']
+                url: 'https://e-commerce-product-catalog-api.vercel.app/'
             }
         ],
     },
